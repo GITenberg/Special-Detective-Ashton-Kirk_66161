@@ -1,0 +1,26 @@
+_repo: Special-Detective-Ashton-Kirk_66161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McIntyre, John Thomas
+    alias: McIntyre, John T. (John Thomas)
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '4311'
+    url: http://www.gutenberg.org/2009/agents/4311
+    wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
+description: ''
+gutenberg_issued: '2021-08-29'
+identifiers:
+  gutenberg: '66161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: Special Detective (Ashton-Kirk)
+url: http://www.gutenberg.org/ebooks/66161
